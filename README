@@ -1,6 +1,6 @@
 A simple linked list program with the last 3rd and middle node search.
 
-To compile and run:
+To compile and run the unit test of GoogleTest :
 
 cmake CMakeLists.txt;
 make;
