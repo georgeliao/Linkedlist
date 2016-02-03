@@ -2,6 +2,8 @@ A simple linked list program.
 
 To compile and run the unit test of GoogleTest :
 
+dependency: GoogleTest
+
 cmake CMakeLists.txt;
 make;
 ./runTests;
