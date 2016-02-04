@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8)
 
-set(CMAKE_CXX_FLAGS "-pg -O0 -Wall -std=c++11 -fPIC ")
+set(CMAKE_CXX_FLAGS "-g -O0 -Wall -std=c++11 -fPIC ")
 
 enable_testing()
 find_package(GTest REQUIRED)

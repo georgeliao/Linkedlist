@@ -1,5 +1,5 @@
 //*****************************************************************
-//  LinkedList.cpp
+//  tests.cpp
 //
 //  Written by George Liao on Jan 25, 2016.
 //
